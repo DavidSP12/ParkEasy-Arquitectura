@@ -7,8 +7,8 @@
 **Integrantes:**
 - [Gabriel Alejandro Camacho Rivera] - [Código]
 - [David Santiago Piñeros Rodriguez] - [00020526922]
-- [Santiago Pineda Mora] - [Código]
-- [Maria Angelica Piedrahita Ramirez] - [Código]
+- [Santiago Pineda Mora] - [00020519556]
+- [Maria Angelica Piedrahita Ramirez] - [00020522980]
 
 ---
 
