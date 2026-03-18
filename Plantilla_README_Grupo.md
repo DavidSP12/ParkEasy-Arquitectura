@@ -3,7 +3,7 @@
 
 **Integrantes:**
 - [Gabriel Alejandro Camacho Rivera] - [Código] - [Email]
-- [David Santiago Piñeros Rodriguez] - [00020526922] - [Email]
+- [David Santiago Piñeros Rodriguez] - [00020526922] - [pinerosrdavid@javeriana.edu.co]
 - [Santiago Pineda Mora] - [Código]  - [Email]
 - [Maria Angelica Piedrahita Ramirez] - [Código] - [Email]
 
