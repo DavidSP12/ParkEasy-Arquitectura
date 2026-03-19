@@ -16,8 +16,8 @@
 
 | Versión | Fecha | Autor | Cambios |
 |---------|-------|-------|---------|
-| 0.1 | [Fecha inicial] | [Nombres] | Borrador inicial |
-| 1.0 | [Fecha actual] | [Grupo completo] | Versión final para entrega |
+| 0.1 | 17/03/26 | David Piñeros, Gabriel Camacho | Borrador inicial |
+| 1.0 | 19/03/26 | David Piñeros, Gabriel Camacho, Santiago Pineda, Angélica Piedrahita | Versión final para entrega |
 
 ---
 
@@ -169,7 +169,7 @@ Dividimos el sistema en tres macrocomponentes de backend (Core, Payments e Integ
 
 | Rol | Nombre | Firma | Fecha |
 |-----|--------|-------|-------|
-| **Líder del Grupo** | [Nombre] | __________ | ___/___/___ |
-| **Arquitecto** | [Nombre] | __________ | ___/___/___ |
-| **Desarrollador 1** | [Nombre] | __________ | ___/___/___ |
-| **Desarrollador 2** | [Nombre] | __________ | ___/___/___ |
+| **Líder del Grupo** | Gabriel Alejandro Camacho Rivera | Gabriel C. | 18/03/26 |
+| **Integrante 2** | David Santiago Piñeros Rodriguez | David P. | 18/03/26 |
+| **Integrante 3** | Santiago Pineda Mora | Santiago P. | 19/03/26 |
+| **Integrante 4** | Maria Angelica Piedrahita Ramirez | Angélica P. | 19/03/26 |
