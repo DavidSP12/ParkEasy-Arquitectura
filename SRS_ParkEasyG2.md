@@ -220,7 +220,7 @@ El sistema ParkEasy será aceptado cuando:
 
 | Rol | Nombre | Firma | Fecha |
 |-----|--------|-------|-------|
-| **Líder del Grupo** | [Nombre] | __________ | ___/___/___ |
-| **Integrante 2** | [Nombre] | __________ | ___/___/___ |
-| **Integrante 3** | [Nombre] | __________ | ___/___/___ |
-| **Integrante 4** | [Nombre] | __________ | ___/___/___ |
+| **Líder del Grupo** | Gabriel Alejandro Camacho Rivera | Gabriel C. | 18/03/26 |
+| **Integrante 2** | David Santiago Piñeros Rodriguez | David P. | 18/03/26 |
+| **Integrante 3** | Santiago Pineda Mora | Santiago P. | 19/03/26 |
+| **Integrante 4** | Maria Angelica Piedrahita Ramirez | Angélica P. | 19/03/26 |
