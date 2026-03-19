@@ -3,10 +3,10 @@
 **Estado:** Aceptado  
 **Fecha:** [19/03/2026] 
 **Decisores:** 
-- [Gabriel Alejandro Camacho Rivera] - [Código]
-- [David Santiago Piñeros Rodriguez] - [00020526922]
-- [Santiago Pineda Mora] - [Código]
-- [Maria Angelica Piedrahita Ramirez] - [Código]
+- [Gabriel Alejandro Camacho Rivera] - [00020530317] - [gabrielcamachor@javeriana.edu.co]
+- [David Santiago Piñeros Rodriguez] - [00020526922] - [pinerosrdavid@javeriana.edu.co]
+- [Santiago Pineda Mora] - [00020519556]  - [santiago.pineda@javeriana.edu.co]
+- [Maria Angelica Piedrahita Ramirez] - [00020522980] - [mariaapiedrahita@javeriana.edu.co]
 **Relacionado con:** DR-02, DR-03, DR-04  
 **Grupo:** [2]
 
